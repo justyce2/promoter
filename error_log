@@ -1,0 +1,805 @@
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 10:29:27 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[21-Oct-2022 10:29:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:29:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 10:30:27 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[21-Oct-2022 10:30:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:27 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 10:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[21-Oct-2022 10:30:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[21-Oct-2022 10:30:38 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[23-Oct-2022 15:42:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[24-Oct-2022 09:52:26 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 6 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 09:53:26 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 6 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 09:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 09:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 09:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 09:59:28 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 6 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:00:42 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:02:42 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:06:13 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:06:59 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:07:10 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:07:34 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:08:14 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:08:20 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php:65
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/index.php(7): include()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:08:56 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 65
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: fullname in /home/greenagrop/public_html/eventplus/promoter/index.php on line 63
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: username in /home/greenagrop/public_html/eventplus/promoter/index.php on line 70
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: email in /home/greenagrop/public_html/eventplus/promoter/index.php on line 77
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: qp in /home/greenagrop/public_html/eventplus/promoter/index.php on line 85
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: qcp in /home/greenagrop/public_html/eventplus/promoter/index.php on line 92
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: terms in /home/greenagrop/public_html/eventplus/promoter/index.php on line 98
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: logoff in /home/greenagrop/public_html/eventplus/promoter/index.php on line 115
+[24-Oct-2022 10:16:50 UTC] PHP Notice:  Undefined index: error in /home/greenagrop/public_html/eventplus/promoter/index.php on line 118
+[24-Oct-2022 10:43:30 UTC] PHP Parse error:  syntax error, unexpected '$fullname' (T_VARIABLE) in /home/greenagrop/public_html/eventplus/promoter/auth/register.inc.php on line 69
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1978
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1979
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: fullname in /home/greenagrop/public_html/eventplus/promoter/index.php on line 63
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: username in /home/greenagrop/public_html/eventplus/promoter/index.php on line 70
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: email in /home/greenagrop/public_html/eventplus/promoter/index.php on line 77
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: qp in /home/greenagrop/public_html/eventplus/promoter/index.php on line 85
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: qcp in /home/greenagrop/public_html/eventplus/promoter/index.php on line 92
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: terms in /home/greenagrop/public_html/eventplus/promoter/index.php on line 98
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: logoff in /home/greenagrop/public_html/eventplus/promoter/index.php on line 115
+[24-Oct-2022 10:48:18 UTC] PHP Notice:  Undefined index: error in /home/greenagrop/public_html/eventplus/promoter/index.php on line 118
+[25-Oct-2022 14:41:57 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2037
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2038
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 14:41:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:41:57 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 14:41:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function user_table(), 0 passed in /home/greenagrop/public_html/eventplus/promoter/user-management.php on line 48 and exactly 1 expected in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php:1989
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/user-management.php(48): user_table()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1989
+[25-Oct-2022 14:44:19 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2037
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2038
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 14:44:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 14:44:19 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:19 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:44:46 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2037
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2038
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 14:44:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:46 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:44:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function top_country_ts_table(), 0 passed in /home/greenagrop/public_html/eventplus/promoter/dashboard.php on line 80 and exactly 1 expected in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php:88
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/dashboard.php(80): top_country_ts_table()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 88
+[25-Oct-2022 14:44:50 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2037
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2038
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 14:44:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:44:50 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:44:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function top_country_ts_table(), 0 passed in /home/greenagrop/public_html/eventplus/promoter/dashboard.php on line 80 and exactly 1 expected in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php:88
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/dashboard.php(80): top_country_ts_table()
+#1 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 88
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2037
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2038
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1666
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1667
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1710
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1711
+[25-Oct-2022 14:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1712
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1713
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 14:45:47 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2041
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2042
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1667
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1671
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1714
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1715
+[25-Oct-2022 17:44:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1716
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1717
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:44:44 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2044
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2045
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 17:48:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1674
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1717
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1718
+[25-Oct-2022 17:48:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1719
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1720
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:48:55 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2044
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2045
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 17:49:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 17:49:59 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2045
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2046
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 17:52:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1675
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1718
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1719
+[25-Oct-2022 17:52:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1720
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1721
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:31 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:50 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2045
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2046
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 17:52:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1670
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1675
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1718
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1719
+[25-Oct-2022 17:52:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1720
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1721
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 17:52:51 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:05 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2044
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2045
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:00:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1668
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1674
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1717
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1718
+[25-Oct-2022 18:00:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1719
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1720
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:00:06 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2051
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2052
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:01:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined variable: start_date in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1675
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Undefined variable: end_date in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1676
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1724
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1725
+[25-Oct-2022 18:01:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1726
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1727
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:01:57 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2061
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2062
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1676
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1677
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1734
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1735
+[25-Oct-2022 18:06:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1736
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1737
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:06:56 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2064
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2065
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1679
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1680
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1737
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1738
+[25-Oct-2022 18:08:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1739
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1740
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:03 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2066
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2067
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:08:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1681
+[25-Oct-2022 18:08:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1682
+[25-Oct-2022 18:08:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1739
+[25-Oct-2022 18:08:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1740
+[25-Oct-2022 18:08:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1741
+[25-Oct-2022 18:08:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1742
+[25-Oct-2022 18:08:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:08:46 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:10 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:10:10 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:10 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2066
+[25-Oct-2022 18:10:10 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2067
+[25-Oct-2022 18:10:10 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:10 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:10:11 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1681
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1682
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1739
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1740
+[25-Oct-2022 18:10:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1741
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1742
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:10:11 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2066
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2067
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1681
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1682
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1739
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1740
+[25-Oct-2022 18:11:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1741
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1742
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:20 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:34 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2066
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2067
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[25-Oct-2022 18:11:34 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 75
+[25-Oct-2022 18:11:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/greenagrop/public_html/eventplus/promoter/assets/comp/side-nav.php on line 78
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 239
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1681
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1682
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1739
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1740
+[25-Oct-2022 18:11:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1741
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1742
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[25-Oct-2022 18:11:35 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2092
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2093
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined variable: show in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1734
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined variable: show in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1782
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:07:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 685
+[30-Oct-2022 17:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php:685
+Stack trace:
+#0 /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php(724): get_attendee_name('32')
+#1 /home/greenagrop/public_html/eventplus/promoter/my-sales.php(54): my_sales_table('20211031000000', '20221031235959', '32')
+#2 {main}
+  thrown in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 685
+[30-Oct-2022 17:08:58 UTC] PHP Warning:  A non-numeric value encountered in /home/greenagrop/public_html/eventplus/promoter/lang/en.php on line 16
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: default_commission in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2093
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined variable: ar in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 2094
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 51
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 52
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 53
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 54
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 55
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 56
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined index: locale in /home/greenagrop/public_html/eventplus/promoter/assets/comp/top-nav.php on line 57
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined variable: default in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 21
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined variable: show in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1735
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Undefined variable: show in /home/greenagrop/public_html/eventplus/promoter/data/data-functions.php on line 1783
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7
+[30-Oct-2022 17:08:58 UTC] PHP Notice:  Constant DEBUG already defined in /home/greenagrop/public_html/eventplus/promoter/auth/db-connect.php on line 7

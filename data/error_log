@@ -1,0 +1,37 @@
+[21-Oct-2022 12:49:14 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 12:49:14 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:49:14 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:49:14 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:49:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 2
+[21-Oct-2022 12:49:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenagrop/public_html/eventplus/promoter/auth/startup.php:11) in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 11
+[21-Oct-2022 12:51:09 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 12:51:09 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:51:09 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:51:09 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:51:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 2
+[21-Oct-2022 12:52:04 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 12:52:04 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:04 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:04 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 2
+[21-Oct-2022 12:52:58 UTC] PHP Notice:  Undefined index: owner in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 11
+[21-Oct-2022 12:52:58 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:58 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:58 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 35
+[21-Oct-2022 12:52:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 2
+[21-Oct-2022 12:52:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenagrop/public_html/eventplus/promoter/auth/startup.php:11) in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 11
+[21-Oct-2022 12:55:10 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[21-Oct-2022 12:55:10 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[21-Oct-2022 12:55:10 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[21-Oct-2022 12:55:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 2
+[21-Oct-2022 12:55:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenagrop/public_html/eventplus/promoter/auth/startup.php:41) in /home/greenagrop/public_html/eventplus/promoter/data/update-sv.php on line 11
+[25-Oct-2022 18:10:46 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:10:46 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:10:46 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:10:46 UTC] PHP Notice:  Undefined variable: q in /home/greenagrop/public_html/eventplus/promoter/data/set-filter.php on line 11
+[25-Oct-2022 18:10:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenagrop/public_html/eventplus/promoter/auth/startup.php:41) in /home/greenagrop/public_html/eventplus/promoter/data/set-filter.php on line 11
+[25-Oct-2022 18:11:02 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:11:02 UTC] PHP Warning:  include(lang/en.php): failed to open stream: No such file or directory in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:11:02 UTC] PHP Warning:  include(): Failed opening 'lang/en.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/greenagrop/public_html/eventplus/promoter/auth/startup.php on line 41
+[25-Oct-2022 18:11:02 UTC] PHP Notice:  Undefined variable: q in /home/greenagrop/public_html/eventplus/promoter/data/set-filter.php on line 11
+[25-Oct-2022 18:11:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenagrop/public_html/eventplus/promoter/auth/startup.php:41) in /home/greenagrop/public_html/eventplus/promoter/data/set-filter.php on line 11
